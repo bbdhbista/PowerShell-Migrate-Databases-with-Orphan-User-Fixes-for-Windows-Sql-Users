@@ -1,5 +1,6 @@
 # PowerShell-Migrate-Databases-with-Orphan-User-Fixes-for-Windows-Sql-Users
 
+NOTE: REQUIRES DBATOOLS FROM DBATOOLS.IO!
 
 Migrate databases off of a server to another through powershell and dbatools.
 
